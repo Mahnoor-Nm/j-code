@@ -1,6 +1,6 @@
 package src;
 
-public class App {
+public class s {
     public static void main(String[] args) {
         System.out.println("Hello World! Your Jenkins CI/CD pipeline is working perfectly.");
     }
